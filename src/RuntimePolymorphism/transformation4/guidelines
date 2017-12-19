@@ -1,0 +1,1 @@
+Returning object from functions, passing read-only arguments and passing rvalues as sink arguments do not require copying.
