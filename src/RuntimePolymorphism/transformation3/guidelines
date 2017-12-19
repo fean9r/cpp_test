@@ -1,0 +1,4 @@
+Pass sink argument by value and swap or move into place.
+
+Sink argument is an argument which is going to be stored or returned from by the function.
+
