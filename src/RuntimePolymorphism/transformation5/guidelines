@@ -1,0 +1,2 @@
+Dont allow polymorphism to complicate the client code
+	Polymorphism is an implementation detail
