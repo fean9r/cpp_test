@@ -1,0 +1,4 @@
+The runtime-concept idiom allows polymorphism when needed without inheritance.
+	Client is freed from inheritance, factories, class registration and memory management.
+	Penalty of runtime polymorphism is only payed when needed.
+	Polymorphic types are used like any other types 
