@@ -1,0 +1,2 @@
+# Alias to load screan with specifc config file
+alias scr='~/scripts/screen.sh'
